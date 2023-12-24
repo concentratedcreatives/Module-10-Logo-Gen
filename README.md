@@ -8,4 +8,4 @@
 
 https://drive.google.com/file/d/1br_LpRp1qZ0POjeu25wLqkDVr6sMHQ4f/view
 
-### Github Link: (https://github.com/concentratedcreatives/week10) ;
+### Github Link: (https://github.com/concentratedcreatives/Module-10-Logo-Gen) ;
